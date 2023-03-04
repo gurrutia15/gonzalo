@@ -14,8 +14,8 @@ En estos momentos me encuentro buscando oportunidades laborales en la industria 
 - :email: gurrutiab15@gmail.com
 
 ##Listado de comandos
-|Comando | Descripción|
-|mkdir   | Creación de un directorio|
+|Comando | Descripción                                      |
+|mkdir   | Creación de un directorio                        |
 |ls      | Listado de diectorios y/o archivos en esa carpeta|
-|pwd     | Saber en qué directorio me encuentro |
-|cd      | Entrar a la siguiente carpeta | 
+|pwd     | Saber en qué directorio me encuentro             |
+|cd      | Entrar a la siguiente carpeta                    | 
