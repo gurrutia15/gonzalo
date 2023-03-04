@@ -29,4 +29,4 @@ En estos momentos me encuentro buscando oportunidades laborales en la industria 
 Alias | Configuración Global | Descripción |
 | ---- | ----- | ------- |
 | npm i | npm install  | instalar un repositorio | 
-|gst | git status | 
+|gst | git status | lista los cambios que se han realizado |
