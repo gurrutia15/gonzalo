@@ -15,6 +15,7 @@ En estos momentos me encuentro buscando oportunidades laborales en la industria 
 
 ##Listado de comandos
 |Comando | Descripción                                      |
+| --- | --- |
 |mkdir   | Creación de un directorio                        |
 |ls      | Listado de diectorios y/o archivos en esa carpeta|
 |pwd     | Saber en qué directorio me encuentro             |
