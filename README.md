@@ -30,3 +30,4 @@ Alias | Configuración Global | Descripción |
 | ---- | ----- | ------- |
 | npm i | npm install  | instalar un repositorio | 
 |gst | git status | lista los cambios que se han realizado |
+|gco | git checkout | ir de una rama a otra|
