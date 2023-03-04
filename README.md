@@ -14,6 +14,8 @@ En estos momentos me encuentro buscando oportunidades laborales en la industria 
 - :email: gurrutiab15@gmail.com
 
 ##Listado de comandos ##
+----------
+
 |Comando | Descripción                                      |
 | --- | --- |
 |mkdir   | Creación de un directorio                        |
@@ -21,3 +23,9 @@ En estos momentos me encuentro buscando oportunidades laborales en la industria 
 |pwd     | Saber en qué directorio me encuentro             |
 |cd      | Entrar a la siguiente carpeta                    | 
 |code    | Crear un nuevo archivo                           |
+
+##Listado de ALIAS
+----
+Alias | Configuración Global | Descripción |
+| ---- | ----- | ------- |
+| npm i | npm install  | instalar un repositorio | 
