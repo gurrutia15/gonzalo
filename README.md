@@ -6,12 +6,12 @@ Mi nombre es Gonzalo Urrutia, acabo de realizar un Bootcamp sobre Desarrollo de 
 En estos momentos me encuentro buscando oportunidades laborales en la industria TI.
 
 
-### 📫 Dónde encontrarme
+## 📫 Dónde encontrarme
 
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Linkedin](https://www.linkedin.com/in/gonzalo-urrutia-baeza-73310636)
 - :email: gurrutiab15@gmail.com
 
-## Listado de comandos 
+### Listado de comandos 
 
 
 |Comando | Descripción                                      |
@@ -22,7 +22,7 @@ En estos momentos me encuentro buscando oportunidades laborales en la industria 
 |cd      | Entrar a la siguiente carpeta                    | 
 |code    | Crear un nuevo archivo                           |
 
-## Listado de ALIAS
+### Listado de ALIAS
 
 Alias | Configuración Global | Descripción |
 | ---- | ----- | ------- |
